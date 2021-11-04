@@ -1,0 +1,14 @@
+{
+	"name": "com.phoder1.asyncmanagement",
+	"version": "1.0.0",
+	"displayName": "Async Management",
+	"description": "A async management library used mainly to disable async processes automatically on game stop, but can also be used to couple async tasks to objects or scenes.",
+	"unity": "2019.3",
+	"keywords": [
+	],
+	"author": {
+		"name": "Alon Talmi",
+		"email": "alontalmi@protonmail.com",
+		"url": "https://github.com/Phoder1"
+	}
+}

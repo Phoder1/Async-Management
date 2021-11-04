@@ -1,0 +1,14 @@
+{
+    "name": "Phoder1.AsyncManagement",
+    "rootNamespace": "Phoder1.AsyncManagement",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
